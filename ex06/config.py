@@ -9,7 +9,7 @@ report_filename = 'report'
 
 report_file_extension = 'txt'
 
-webhook = "https://hooks.slack.com/services/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"
+webhook = "https://hooks.slack.com/services/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"
 
 message_success = {"text": "The report has been successfully created"}
 message_fail = {"text": "The report hasn’t been created due to an error"}
